@@ -5,6 +5,7 @@ header {
     height: 30em;
     background: url(../image/header.png) no-repeat;
     background-size: 100%;
+    margin-bottom: 10px;
 }
 
 header  h1, h2 {
