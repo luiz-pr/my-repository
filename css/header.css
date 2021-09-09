@@ -4,6 +4,7 @@ header {
     width: 100%;
     height: 30em;
     background: url(../image/header.png) no-repeat;
+    background-size: 100%;
 }
 
 header  h1, h2 {
